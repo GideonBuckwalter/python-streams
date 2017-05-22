@@ -3,7 +3,6 @@ A module that wraps Python 3 iterators in delicious Java 8 stream syntax.
 
 ### Example:
 ```python
-import itertools
 from fractions import Fraction
 import operator
 
